@@ -1,0 +1,77 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="about">images/icon-about.png</file>
+        <file alias="close">images/icon-close.png</file>
+        <file alias="copy">images/icon-copy.png</file>
+        <file alias="cut">images/icon-cut.png</file>
+        <file alias="delete">images/icon-delete.png</file>
+        <file alias="export">images/icon-export.png</file>
+        <file alias="import">images/icon-import.png</file>
+        <file alias="new">images/icon-new.png</file>
+        <file alias="open">images/icon-open.png</file>
+        <file alias="paste">images/icon-paste.png</file>
+        <file alias="preferences">images/icon-preferences.png</file>
+        <file alias="quit">images/icon-quit.png</file>
+        <file alias="redo">images/icon-redo.png</file>
+        <file alias="save">images/icon-save.png</file>
+        <file alias="saveas">images/icon-saveas.png</file>
+        <file alias="undo">images/icon-undo.png</file>
+        <file alias="author">images/icon-author.png</file>
+        <file alias="sketch">images/icon-sketch.png</file>
+        <file alias="preview">images/icon-preview.png</file>
+        <file alias="next">images/icon-next.png</file>
+        <file alias="pause">images/icon-pause.png</file>
+        <file alias="play">images/icon-play.png</file>
+        <file alias="previous">images/icon-previous.png</file>
+        <file alias="stopa">images/icon-stop.png</file>
+        <file alias="home">images/icon-home.png</file>
+        <file alias="add">images/icon-add.png</file>
+        <file alias="home2">images/icon-sketch-home.png</file>
+        <file alias="next2">images/icon-sketch-next.png</file>
+        <file alias="previous2">images/icon-sketch-previous.png</file>
+        <file alias="narrative">images/icon-narrative-view.png</file>
+        <file alias="addsel">images/icon-add-sel.png</file>
+        <file alias="alter">images/icon-sketch-add-alternative.png</file>
+        <file alias="dist">images/icon-sketch-add-distribution.png</file>
+        <file alias="seq">images/icon-sketch-add-panel.png</file>
+        <file alias="ref">images/icon-sketch-add-reference.png</file>
+        <file alias="addi">images/icon-sketch-add-i.png</file>
+        <file alias="addisel">images/icon-sketch-add-i-sel.png</file>
+        <file alias="addlock">images/icon-add-lock.png</file>
+        <file alias="nalter">images/icon-narrative-alternative.png</file>
+        <file alias="ndist">images/icon-narrative-distribution.png</file>
+        <file alias="nseq">images/icon-narrative-panel.png</file>
+        <file alias="nref">images/icon-narrative-reference.png</file>
+        <file alias="iaddlock">images/icon-sketch-add-i-lock.png</file>
+        <file alias="addlock2">images/icon-author-addlock.png</file>
+        <file alias="intseq">images/icon-narrative-panel2.png</file>
+        <file alias="adpseq">images/icon-narrative-panel3.png</file>
+        <file alias="mininext">images/icon-mini-next.png</file>
+        <file alias="miniadp">images/icon-mini-adp.png</file>
+        <file alias="miniint">images/icon-mini-int.png</file>
+        <file alias="audio">images/icon-audio.png</file>
+        <file alias="image">images/icon-image.png</file>
+        <file alias="remove">images/icon-remove.png</file>
+        <file alias="text">images/icon-text.png</file>
+        <file alias="video">images/icon-video.png</file>
+        <file alias="insert">images/icon-insert.png</file>
+        <file alias="variable">images/icon-variable.png</file>
+        <file alias="addselected">images/icon-add-selected.png</file>
+    </qresource>
+    <qresource prefix="/bg/sketch">
+        <file alias="view">images/bg-sketch-view.png</file>
+        <file alias="panel">images/bg-sketch-panel.png</file>
+    </qresource>
+    <qresource prefix="/bg/author">
+        <file alias="view">images/bg-author-view.png</file>
+    </qresource>
+    <qresource prefix="/bg/preview">
+        <file alias="view">images/bg-preview-view.png</file>
+    </qresource>
+    <qresource prefix="/bg/narrative">
+        <file alias="view">images/bg-narrative-view.png</file>
+    </qresource>
+    <qresource prefix="/bg/welcome">
+        <file alias="view">images/bg-welcome-view.png</file>
+    </qresource>
+</RCC>
